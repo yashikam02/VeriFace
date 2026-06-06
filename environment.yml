@@ -1,0 +1,16 @@
+name: zynga_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch
+      - torchvision
+      - torchaudio
+      - facenet-pytorch
+      - mtcnn
+      - opencv-python
+      - pytesseract
+      - streamlit
