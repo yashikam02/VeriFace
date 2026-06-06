@@ -99,11 +99,18 @@ Traditional identity verification processes are often manual, slow, and prone to
 
 ---
 
-```html id="r49d0j"
-<h2>Application Screenshots</h2>
+```html id="n2c3pm"
+<h2 align="center">Application Screenshots</h2>
 
-<img src="https://github.com/yashikam02/VeriFace/blob/main/identity-verification.png?raw=true" width="900"/>
+<p align="center">
+  <img 
+    src="https://github.com/yashikam02/VeriFace/blob/main/identity-verification.png?raw=true"
+    alt="Identity Verification App Screenshot"
+    width="900"
+  />
+</p>
 ```
+
 
 
 
@@ -111,6 +118,7 @@ Traditional identity verification processes are often manual, slow, and prone to
 
 ## 📈 Team Members
 -Tanya Sharma, Yashika Mann, Shreya Ruhela
+
 Built for Zynga Hackathon 2025
 (IGDTUW)
 
