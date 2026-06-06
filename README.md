@@ -99,17 +99,9 @@ Traditional identity verification processes are often manual, slow, and prone to
 
 ---
 
-```html id="n2c3pm"
-<h2 align="center">Application Screenshots</h2>
 
-<p align="center">
-  <img 
-    src="https://github.com/yashikam02/VeriFace/blob/main/identity-verification.png?raw=true"
-    alt="Identity Verification App Screenshot"
-    width="900"
-  />
-</p>
-```
+### Final Verification Result
+![Final Verification Result](identity-verification.png)
 
 
 
